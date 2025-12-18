@@ -1,5 +1,5 @@
-CPU Estimate
-============
+CPU Usage Estimate
+==================
 
 High-Level Summary of Steps
 ---------------------------
